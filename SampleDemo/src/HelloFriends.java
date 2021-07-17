@@ -5,6 +5,7 @@ public class HelloFriends {
 	{
 		System.out.println("Hello friends");
 		System.out.println("how r u?");
+		System.out.println("New Commit");
 
 	}
 
